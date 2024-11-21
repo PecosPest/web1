@@ -13,7 +13,7 @@
 }
 .intro-container {
     background-color: #DAC3A9;
-    color: #4B67ED;
+    color: #21207A;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -32,7 +32,7 @@
 }
 .about-container {
     background-color: #E9E8B4;
-    color: #4B67ED;
+    color: #21207A;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -74,7 +74,7 @@
 }
 .index-container {
     background-color: #9FE9B2;
-    color: #4B67ED;
+    color: #21207A;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
